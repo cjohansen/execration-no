@@ -1,0 +1,94 @@
+body {
+    background: url(../images/stars.png) 50% 0 repeat-x #1c2128;
+    background-attachment: fixed;
+    color: #d0dec5;
+    font: 18px Helvetica,arial,freesans,clean,sans-serif;
+    line-height: 1.4;
+    text-align: center;
+}
+
+#logo {
+    margin-left: -50px;
+}
+
+.main {
+    width: 709px;
+    margin: 0 auto;
+}
+
+.dark {
+    background: #000;
+}
+
+.bordered {
+    border-top: 1px solid #d0dec5;
+    border-bottom: 1px solid #d0dec5;
+    margin: 40px auto;
+    padding: 40px 0;
+}
+
+.enter {
+    width: 709px;
+    height: 0;
+    padding-top: 50px;
+    overflow: hidden;
+    background: url(../images/enter.png) 50% 0 no-repeat;
+}
+
+p, iframe {
+    margin: 20px 0;
+}
+
+.subtle,
+.subtle a {
+    color: #b6c2ae;
+    font-size: 14px;
+}
+
+.subtle {
+    margin: 10px 0;
+}
+
+.col {
+    float: left;
+}
+
+.hells {
+    font-size: 12px;
+    width: 110px;
+}
+
+blockquote {
+    margin: 20px 0;
+}
+
+.duplicate {
+    font-size: 12px;
+    margin: 0 40px 0 20px;
+    width: 140px;
+}
+
+.image {
+    height: 115px;
+}
+
+.image img {
+    vertical-align: middle;
+}
+
+.duplicate img {
+    margin-top: 30px;
+}
+
+blockquote {
+    font-size: 14px;
+    color: #5f7990;
+}
+
+a, a:link {
+    color: #d0dec5;
+}
+
+a:hover, a:active {
+    text-decoration: none;
+}
